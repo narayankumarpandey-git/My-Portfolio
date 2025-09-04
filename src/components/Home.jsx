@@ -10,8 +10,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Narayan Kumar Pandey",
-        "I'm full stack developer",
-        "Androide Developer (React Native)",
+        "I'm frontend developer",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -44,4 +43,5 @@ const Home = () => {
 };
 
 export default Home;
+
 
