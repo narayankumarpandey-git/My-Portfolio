@@ -9,7 +9,7 @@ const Home = () => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My Name is John Doe",
+        "My Name is Narayan Kumar Pandey",
         "I'm full stack developer",
         "Androide Developer (React Native)",
       ],
@@ -44,3 +44,4 @@ const Home = () => {
 };
 
 export default Home;
+
