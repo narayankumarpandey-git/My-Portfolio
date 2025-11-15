@@ -1,6 +1,6 @@
 import React, {useEffect, useRef} from 'react'
 import pdf from '../pdf/resume.pdf'
-import image from '../photo.png'
+import image from '../image.png'
 import Typed from "typed.js";
   
 const Home = () => {
@@ -44,4 +44,5 @@ const Home = () => {
 };
 
 export default Home;
+
 
