@@ -1,6 +1,6 @@
 import React, {useEffect, useRef} from 'react'
 import pdf from '../pdf/resume.pdf'
-import image from '../image.png'
+import image from '../photo.png'
 import Typed from "typed.js";
   
 const Home = () => {
@@ -10,7 +10,8 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Narayan Kumar Pandey",
-        "I'm frontend developer",
+        "I'm full stack developer",
+        
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -43,5 +44,4 @@ const Home = () => {
 };
 
 export default Home;
-
 
